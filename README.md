@@ -1,4 +1,5 @@
-## Hi there 👋
+My name ahnaful Hoque. Iam currently studying at memorial university of newfoundland
+
 
 <!--
 **ahnafulhoque/ahnafulhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
